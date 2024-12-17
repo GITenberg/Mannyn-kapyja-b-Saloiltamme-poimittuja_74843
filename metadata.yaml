@@ -1,0 +1,25 @@
+_repo: Mannyn-kapyja-b-Saloiltamme-poimittuja_74843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leiman, Jonas Viktor
+    gutenberg_agent_id: '57683'
+    url: http://www.gutenberg.org/2009/agents/57683
+description: ''
+gutenberg_issued: '2024-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74843'
+language: fi
+pgterms:marc905: 20241128005650leiman
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bK. E. Holm, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Männyn käpyjä : $b Saloiltamme poimittuja'
+url: http://www.gutenberg.org/ebooks/74843
